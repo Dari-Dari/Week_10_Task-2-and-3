@@ -20,7 +20,7 @@ const images = [
     './assets/overlords_6.png',
     './assets/overlords_7.png',
     './assets/overlords_8.png',
-    '/assets/overlords_9.jpg'
+    './assets/overlords_9.jpg'
 ];
 
 const gallery = document.querySelector('.task-3__gallery');
